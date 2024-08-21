@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1724176120 source:d:\carrera unla\4to aÑo\2do cuatrimestre\3 - desarrollo de software en sistemas distribuidos (miercoles de 9 a 13hs)\socket\servidor\main.c
+	"servidor.h"
+
+1724176026 d:\carrera unla\4to aÑo\2do cuatrimestre\3 - desarrollo de software en sistemas distribuidos (miercoles de 9 a 13hs)\socket\servidor\servidor.h
+	<winsock2.h>
+
+1724176732 source:d:\carrera unla\4to aÑo\2do cuatrimestre\3 - desarrollo de software en sistemas distribuidos (miercoles de 9 a 13hs)\socket\servidor\servidor.c
+	"servidor.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1724176120 source:d:\carrera unla\4to aÑo\2do cuatrimestre\3 - desarrollo de software en sistemas distribuidos (miercoles de 9 a 13hs)\actividad n°1\socket\servidor\main.c
+	"servidor.h"
+
+1724176026 d:\carrera unla\4to aÑo\2do cuatrimestre\3 - desarrollo de software en sistemas distribuidos (miercoles de 9 a 13hs)\actividad n°1\socket\servidor\servidor.h
+	<winsock2.h>
+
+1724177175 source:d:\carrera unla\4to aÑo\2do cuatrimestre\3 - desarrollo de software en sistemas distribuidos (miercoles de 9 a 13hs)\actividad n°1\socket\servidor\servidor.c
+	"servidor.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
